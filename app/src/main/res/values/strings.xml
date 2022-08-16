@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">WeatherAppMVVM_LiveData_Retrofit_Dagger-Hilt</string>
+</resources>
